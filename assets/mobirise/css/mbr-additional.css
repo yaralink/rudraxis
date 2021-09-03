@@ -1941,6 +1941,10 @@ section.lazy-placeholder:after {
 .cid-sHlPSgjb0t .btn {
   margin: 0.2rem !important;
 }
+.cid-sHlPSgjb0t .col-md-10 {
+  flex: none !important;
+  max-width: 90.333333%;
+}
 .cid-rx3Dmj9ihp .navbar {
   padding: .5rem 0;
   background: #0a0c0f;
