@@ -285,7 +285,8 @@
     "gdpr": false,
     "pwa-switcher": false,
     "chatbutton": {},
-    "global_after_body": "<script>\nwindow.replainSettings = { id: 'ee4cefe7-a6d6-4432-af48-958a0a297d6a' };\n(function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;\nvar x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);\n})('https://widget.replain.cc/dist/client.js');\n</script>"
+    "global_after_body": "<script>\nwindow.replainSettings = { id: 'ee4cefe7-a6d6-4432-af48-958a0a297d6a' };\n(function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;\nvar x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);\n})('https://widget.replain.cc/dist/client.js');\n</script>",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -293,7 +294,7 @@
         "main": true,
         "title": "Rudraxis Store",
         "meta_descr": "Find a rare handmade goods made by small business family factories in Tibet & Nepal.",
-        "header_custom": "<script src=\"//code-eu1.jivosite.com/widget/EaMQOI03Ah\" async></script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/e2sx82qviaemdtj-3-1080x789.jpeg"
