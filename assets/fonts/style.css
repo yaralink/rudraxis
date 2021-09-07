@@ -1,20 +1,15 @@
 @font-face {
-   font-family: 'RobotoCondensed-Bold';
-   font-display: swap;
-   src: url('RobotoCondensed-Bold/font.ttf');
-}
-@font-face {
    font-family: 'RobotoCondensed-Regular';
    font-display: swap;
    src: url('RobotoCondensed-Regular/font.ttf');
 }
 @font-face {
+   font-family: 'RobotoCondensed-Light';
+   font-display: swap;
+   src: url('RobotoCondensed-Light/font.ttf');
+}
+@font-face {
    font-family: 'Roboto-Light';
    font-display: swap;
    src: url('Roboto-Light/font.ttf');
-}
-@font-face {
-   font-family: 'Roboto-Regular';
-   font-display: swap;
-   src: url('Roboto-Regular/font.ttf');
 }
