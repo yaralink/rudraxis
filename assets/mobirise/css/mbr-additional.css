@@ -1889,7 +1889,7 @@ section.lazy-placeholder:after {
 }
 .cid-sHlPSgjb0t .row {
   justify-content: center;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
 }
 .cid-sHlPSgjb0t .link {
   margin: 0;
@@ -1913,7 +1913,7 @@ section.lazy-placeholder:after {
   width: fit-content;
   position: relative;
   margin: auto;
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.5rem;
   letter-spacing: 6px;
 }
 .cid-sHlPSgjb0t h3:before {
@@ -1939,7 +1939,7 @@ section.lazy-placeholder:after {
   background: currentColor;
 }
 .cid-sHlPSgjb0t .btn {
-  margin: 0.2rem !important;
+  margin: 0.1rem !important;
 }
 .cid-sHlPSgjb0t .col-md-10 {
   flex: none !important;
